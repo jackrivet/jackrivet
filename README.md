@@ -3,6 +3,7 @@
 I'm a data analyst focused on predictive modeling and analytics automation. I use Python, SQL and AWS to build tools that turn messy data into real world decisions. 
 
 ## Recent Projects
+- [Call Driver Intelligence Pipeline](https://github.com/jackrivet/aws-contact-intelligence-pipeline): Full MLOps pipeline for automated classification of support calls.
 - [Churn Prediction Model](https://github.com/jackrivet/churn-prediction-model/tree/main): Built with TensorFlow to identify high-risk customers to proactively reduce churn.
 - [Amazon Connect Call Classifier](https://github.com/jackrivet/nlp-call-classifier): NLP Model using deep learning to categorize call transcripts.
 
